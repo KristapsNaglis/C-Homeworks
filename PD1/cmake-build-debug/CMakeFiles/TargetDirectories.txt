@@ -1,0 +1,3 @@
+C:/Users/Kristaps/CLionProjects/C++PD/PD1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kristaps/CLionProjects/C++PD/PD1/cmake-build-debug/CMakeFiles/PD1.dir
+C:/Users/Kristaps/CLionProjects/C++PD/PD1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
